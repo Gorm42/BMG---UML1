@@ -1,0 +1,14 @@
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\bin\Debug\net8.0\BMG - UML1.exe
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\bin\Debug\net8.0\BMG - UML1.deps.json
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\bin\Debug\net8.0\BMG - UML1.runtimeconfig.json
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\bin\Debug\net8.0\BMG - UML1.dll
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\bin\Debug\net8.0\BMG - UML1.pdb
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\obj\Debug\net8.0\BMG - UML1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\obj\Debug\net8.0\BMG - UML1.AssemblyInfoInputs.cache
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\obj\Debug\net8.0\BMG - UML1.AssemblyInfo.cs
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\obj\Debug\net8.0\BMG - UML1.csproj.CoreCompileInputs.cache
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\obj\Debug\net8.0\BMG - UML1.dll
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\obj\Debug\net8.0\refint\BMG - UML1.dll
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\obj\Debug\net8.0\BMG - UML1.pdb
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\obj\Debug\net8.0\BMG - UML1.genruntimeconfig.cache
+C:\Users\Gormw\OneDrive\Drev\Uddannelse\Zealand Erhvervsakademi\1. Software Konstruktion\BMG - UML1\BMG - UML1\obj\Debug\net8.0\ref\BMG - UML1.dll
